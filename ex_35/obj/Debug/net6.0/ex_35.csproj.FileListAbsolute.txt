@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\bin\Debug\net6.0\ex_35.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\bin\Debug\net6.0\ex_35.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\bin\Debug\net6.0\ex_35.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\bin\Debug\net6.0\ex_35.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\bin\Debug\net6.0\ex_35.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\refint\ex_35.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ex_35.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 5 Функции продолжение\S5\ex_35\obj\Debug\net6.0\ref\ex_35.dll
